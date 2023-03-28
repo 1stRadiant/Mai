@@ -4,5 +4,5 @@ You can run the code in any javascript environment. It is still a work in progre
 
 How to use it.
 In the code you see the following two lines which you should edit accordingly:
-```const paragraph = readFile("textconverter.txt");
-```const incompleteSentence = "hello how are you?";
+```const paragraph = readFile("textconverter.txt");```
+```const incompleteSentence = "hello how are you?";```
